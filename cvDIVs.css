@@ -1,0 +1,124 @@
+#contenedor {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid;
+    border-color: grey;
+    padding: 10px;
+    width: 80%;
+}
+
+#cajacabecera {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+#mi-menu {
+    float: left;
+    width: 100%;
+    background-color: beige;
+
+}
+
+#cajatitulo {
+    float: left;
+    width: 100%;
+    height: 40px;
+    background-color: beige;
+    text-align: left;
+    font-size: x-large;
+    font-weight: bold;
+
+}
+
+#cajatexto {
+    float: left;
+    width: 65%;
+    text-align: justify;
+    font-size: x-large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#cajafoto {
+    float: right;
+    width: 20%;
+    text-align: center;
+}
+
+#cajasubtitulo {
+    float: left;
+    width: 100%;
+    height: 30px;
+    background-color: beige;
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+#cajatexto1 {
+    float: left;
+    width: 65%;
+    text-align: justify;
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#cajatexto2 {
+    float: right;
+    width: 20%;
+    text-align: justify;
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid;
+    border-color: grey;
+    padding: 10px;
+    background-color: beige;
+}
+
+#cajatexto3 {
+    float: left;
+    width: 100%;
+    text-align: justify;
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#cajafinal {
+    float: left;
+    height: 20px;
+    width: 100%;
+    background-color: beige;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+#cajavideo {
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    background-color: beige;
+}
+
+#boton {
+    float: right;
+    height: 20px;
+    width: 10%;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
